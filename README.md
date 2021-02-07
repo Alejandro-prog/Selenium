@@ -1,3 +1,3 @@
 # Selenium
 
-LLena automaticamnete un formulario de Google Forms basado en una tabla de excel
+LLena automaticamente un formulario de Google Forms basado en una tabla de excel
